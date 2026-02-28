@@ -1,7 +1,7 @@
 //simple calculator 
 import java.util.Scanner;
 
-public class Calculator {
+public class SEATWORK9B {
         public static void main(String[] args) {
 
                     Scanner calcu = new Scanner(System.in);
