@@ -1,7 +1,7 @@
 //WEIGHT TO POUNDS
 import java.util.Scanner;
 
-public class Main {
+public class SEATWORK9A {
         public static void main(String[] args) {
 
 
