@@ -16,7 +16,7 @@ public class SEATWORK9B {
                                                                                     System.out.print("Enter the first number: ");
                                                                                                 num1 = calcu.nextDouble();
 
-                                                                                                            System.out.print("Enter an operator (+, -, *, /, ^): ");
+                                                                                           System.out.print("Enter an operator (+, -, *, /, ^): ");
                                                                                                                         operator = calcu.next().charAt(0);
 
                                                                                                                                     System.out.print("Enter the second number: ");
